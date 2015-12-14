@@ -1,18 +1,26 @@
-# About this'ere GitHub...
+# About SELC using GitHub to manage research...
 
-**What I like about GitHub (as opposed to Google Docs) is:**
-* We can use "Issues" to have conversations and iron out details. We can tag the issues as "Big Picture Question," "Legal Research," etc.
-* We'll have a detailed history of the documents edits, who made what edits, and version control
+## Important Disclaimer: Anything you read in here could be wrong. This is a risk of crowdsourcing legal research.
+
+### Why use GitHub?
+If we are going to reshape the legal landscape to smooth the pathway for local sustainable economies, we have a lot of legal research to do! The [Sustainable Economies Law Center](http://www.theselc.org) is experimenting with using GitHub to manage and make public some of the research questions on our to-do list. 
+
+GitHub is designed for collaborative and open source software design. But we inspired to use it for legal documents after reading this [article about other ways to use GitHub](http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding).
+
+### Some useful features:
+* We can use "Issues" to list, describe, and assign research questions. Since we could easily end up with hundreds of research questions, we can tag the issues using Labels, and sort them by their size, topic, and priority.
+* If we use the Repository to create documents, we'll have a detailed history of the documents edits, who made what edits, and version control
 * When we make changes to documents, there's a way to comment on the nature of those changes, to call attention to what you worked on.
 * People can view and comment on the edits
 * People can "branch" a document, work on edits in a separate copy, and later merge in the edits
-* Once finished, other people will be able to "fork" the documents for their own use
-* GitHub is designed for collaborative and open source software design. But I was inspired to use it for legal documents after reading this [article about other ways to use GitHub](http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding).
+* Other people will be able to "fork" the documents for their own use
 
-**But there is a bit of a learning curve:**
-* You need to take a few minutes to learn Markdown, which is similar to HTML. You can [learn the basics of Markdown here](https://help.github.com/articles/markdown-basics/). You can also paste text from Word into a [converter like this](http://markitdown.medusis.com/) in order to convert it to markdown.
-* There are tutorial videos and guides. Even after watching some, I still don't understand all the features.
+### But there is a tiny learning curve:
+It's easy to get frustrated with GitHub if you don't take about 30 minutes to learn its features. So we recommend that you take 30 minutes to: 
+1. Read [the basics](https://guides.github.com/activities/hello-world/).
+2. Learn Markdown [here](https://help.github.com/articles/markdown-basics/). It is a formatting language similar to HTML, but much simpler. 
 
-**Some tips**
+
+### Some tips: 
 * If you create a new file, be sure to add the extension ".md"
 * Turns out we can't create footnotes in github, so I suggested that we create footnotes in brackets like this: [1. this is the footnote.] If we put it into wordpress, it'll turn into a footnote and automatically number itself. 
