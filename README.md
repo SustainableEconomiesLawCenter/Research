@@ -1,5 +1,7 @@
 # About SELC using GitHub to manage research...
 
+## Click on "Issues" above to find the research questions
+
 ## Important Disclaimer: Anything you read in here could be wrong. This is a risk of crowdsourcing legal research.
 
 ### Why use GitHub?
